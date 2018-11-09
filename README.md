@@ -4,5 +4,5 @@ apk of calculator app
 <div>
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////
 <h2>ScreenShot</h2>
-<img src="calculator.jpeg" width="300" height="500">
+<img src="Calculator.jpeg" width="300" height="500">
 </div>
